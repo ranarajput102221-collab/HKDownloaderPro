@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.0",
+  "latest_version": "3.2",
   "update_url": "https://github.com/ranarajput102221-collab/HKDownloaderPro/releases/download/v3.0/HK.Downloader.Pro.exe",
-  "changelog": "v3.0 is here! Redesigned UI, Auto-Shutdown, and Speed fixes. [IMPORTANT] If the auto-update gets stuck, please download v3.0 manually or contact Admin on WhatsApp here: wa.me/923198662419"
+  "changelog": "v3.2 is here!\n- [New] Automatic Pictures subfolder sorting for all platforms (TikTok, Instagram, Facebook, Pinterest).\n- [New] Save long captions (> 50 chars) in matching .txt files.\n- [New] Lifetime downloads counter shown in Dashboard.\n- [New] Cookies text direct copy-paste option.\n- [New] 7-day automatic cookies validity cleanup."
 }
